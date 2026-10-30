@@ -1,0 +1,122 @@
+{
+  "rows": [
+    {
+      "name": "陈莫宇",
+      "average": 10.69,
+      "rate": 75,
+      "total": 171,
+      "games": 16,
+      "rank": 1,
+      "first_place_count": 12
+    },
+    {
+      "name": "林敏波",
+      "average": 10,
+      "rate": 62.5,
+      "total": 160,
+      "games": 16,
+      "rank": 2,
+      "first_place_count": 10
+    },
+    {
+      "name": "张寒",
+      "average": 9.78,
+      "rate": 55.56,
+      "total": 176,
+      "games": 18,
+      "rank": 3,
+      "first_place_count": 10
+    },
+    {
+      "name": "乐乐",
+      "average": 9.56,
+      "rate": 43.75,
+      "total": 153,
+      "games": 16,
+      "rank": 4,
+      "first_place_count": 7
+    },
+    {
+      "name": "大胖子",
+      "total": 145,
+      "games": 16,
+      "first_place_count": 4,
+      "average": 9.06,
+      "rate": 25,
+      "rank": 5
+    },
+    {
+      "name": "郑文康",
+      "total": 125,
+      "games": 14,
+      "first_place_count": 3,
+      "average": 8.93,
+      "rate": 21.43,
+      "rank": 6
+    },
+    {
+      "name": "路障",
+      "average": 7.94,
+      "rate": 0,
+      "total": 127,
+      "games": 16,
+      "rank": 7,
+      "first_place_count": 0
+    },
+    {
+      "name": "暗号",
+      "total": 120,
+      "games": 16,
+      "first_place_count": 0,
+      "average": 7.5,
+      "rate": 0,
+      "rank": 8
+    },
+    {
+      "name": "小岛",
+      "average": 7.22,
+      "rate": 5.56,
+      "total": 130,
+      "games": 18,
+      "rank": 9,
+      "first_place_count": 1
+    },
+    {
+      "name": "小爱莉",
+      "total": 86,
+      "games": 14,
+      "first_place_count": 1,
+      "average": 6.14,
+      "rate": 7.14,
+      "rank": 10
+    },
+    {
+      "name": "牢喵",
+      "average": 5,
+      "rate": 0,
+      "total": 80,
+      "games": 16,
+      "rank": 11,
+      "first_place_count": 0
+    },
+    {
+      "name": "清梦",
+      "average": 4.63,
+      "rate": 0,
+      "total": 74,
+      "games": 16,
+      "rank": 12,
+      "first_place_count": 0
+    }
+  ],
+  "pending": [],
+  "overall": "8.06",
+  "updated": "2026-10-29",
+  "applied_matches": [
+    "2026-10-26_不知豆队VS爱康tv",
+    "2026-10-26_宇宙胖猴VS波喵",
+    "2026-10-27_寒岛VS宇宙胖猴",
+    "2026-10-29_爱康tvVS虾头路障"
+  ],
+  "event": "杨胖杯"
+}

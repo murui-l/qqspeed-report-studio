@@ -1,0 +1,101 @@
+{
+  "title": "2v2个人竞速",
+  "subtitle": "杨胖杯 · 七局战报",
+  "event": "杨胖杯",
+  "date": "2026-10-29",
+  "teams": [
+    {
+      "name": "爱康tv",
+      "logo": "../../assets/logos/aikang-tv-logo.png",
+      "total": 113,
+      "players": [
+        {
+          "name": "郑文康",
+          "source_name": "zwk",
+          "total": 64,
+          "scores": [
+            10,
+            9,
+            3,
+            10,
+            10,
+            11,
+            11
+          ]
+        },
+        {
+          "name": "小爱莉",
+          "source_name": "爱莉",
+          "total": 49,
+          "scores": [
+            8,
+            10,
+            0,
+            8,
+            11,
+            9,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "虾头路障",
+      "logo": "../../assets/logos/xiatou-luzhang-logo.png",
+      "total": 134,
+      "players": [
+        {
+          "name": "大🦐",
+          "source_name": "虾",
+          "total": 71,
+          "scores": [
+            11,
+            11,
+            11,
+            11,
+            7,
+            10,
+            10
+          ]
+        },
+        {
+          "name": "泪",
+          "source_name": "泪",
+          "total": 63,
+          "scores": [
+            9,
+            10,
+            8,
+            8,
+            9,
+            10,
+            9
+          ]
+        }
+      ]
+    }
+  ],
+  "rounds": [
+    "11城",
+    "雾山五行",
+    "山海画境",
+    "决战！雪山之巅",
+    "苏格兰场",
+    "疾风机场",
+    "老街工地"
+  ],
+  "source_map_labels": [
+    "11城",
+    "五行",
+    "山海",
+    "雪山",
+    "苏格兰",
+    "机场",
+    "工地"
+  ],
+  "notes": [
+    "zwk为郑文康",
+    "小爱莉第三局未完成，按原表计0分，局数照常累计"
+  ],
+  "id": "2026-10-29_爱康tvVS虾头路障"
+}

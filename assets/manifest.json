@@ -1,0 +1,327 @@
+[
+  {
+    "file": "assets/backgrounds/ranking.png",
+    "bytes": 1688263,
+    "sha256": "f178b47c7da26f0a8b1ea3a88435c9de3082548e0b458011c1234e6ee92c8264"
+  },
+  {
+    "file": "assets/logos/aikang-tv-logo.png",
+    "bytes": 2030283,
+    "sha256": "eeeb4547766056cd4b5803edafea0e087fdd5c13bbed232e328c658bff902e7b"
+  },
+  {
+    "file": "assets/logos/bomiao-logo.png",
+    "bytes": 1583285,
+    "sha256": "a7ae235b66873c959a48996d839dc0649809a2d9c7b27c507e6df7cde1ea13e4"
+  },
+  {
+    "file": "assets/logos/buzhidou-logo.png",
+    "bytes": 1151794,
+    "sha256": "01bc02bc4479697040597431b4a01bc9ca0dbee60935f95ed9059b0529cf0945"
+  },
+  {
+    "file": "assets/logos/handao-logo.png",
+    "bytes": 1859502,
+    "sha256": "fc170973065aedbeb09bb67484be47f544ed1557bbb4179301269b4c6566274f"
+  },
+  {
+    "file": "assets/logos/xiatou-luzhang-logo.png",
+    "bytes": 1518660,
+    "sha256": "bde99521667b47ba9e8246db68b43dc03cdc8b4f5829a3d1283fcb845a12737d"
+  },
+  {
+    "file": "assets/logos/yuzhou-panghou-logo.png",
+    "bytes": 1912195,
+    "sha256": "a8d647d2624a0c612de494c134f18635862f19a3b591610a1cfdc6e5adb4743c"
+  },
+  {
+    "file": "assets/maps/11城.jpg",
+    "bytes": 97555,
+    "sha256": "0e833e0113a10cf69c7ea8f80e2974a52e251ce5474db6bf1b421a4d023c8f18"
+  },
+  {
+    "file": "assets/maps/originals/11城.png",
+    "bytes": 447517,
+    "sha256": "4c37cf6f0dbef9521e2081a14e6e08be4147dd409e98fd46f1de743c09dcc842"
+  },
+  {
+    "file": "assets/maps/originals/云涌天门.png",
+    "bytes": 397561,
+    "sha256": "f14a74af50d682b640c76b662b3bceb0bd7695201e7b495b1b138477842c3895"
+  },
+  {
+    "file": "assets/maps/originals/亚特兰蒂斯.jpg",
+    "bytes": 247696,
+    "sha256": "c65e02e9c80a152af4ee2660749618134e7475f84ceb648249a8a66c6ec6b962"
+  },
+  {
+    "file": "assets/maps/originals/伊甸掠影.png",
+    "bytes": 397972,
+    "sha256": "7f2420737a2374e510cb2cfcb9496e74ae280bb59c27ff6df9a1c3023ff125ca"
+  },
+  {
+    "file": "assets/maps/originals/兰舟听雪.jpg",
+    "bytes": 108300,
+    "sha256": "470be77dc6a37a22b620bb3fb3e5c7dbe683ac4fdc913af1abb1fe18483be593"
+  },
+  {
+    "file": "assets/maps/originals/决战！雪山之巅.jpg",
+    "bytes": 239148,
+    "sha256": "7cf8b64b6f4e1e21f1e3b767aecdfeb4d1ddb944907bc7b68ddb67810075f375"
+  },
+  {
+    "file": "assets/maps/originals/千户苗寨.png",
+    "bytes": 483815,
+    "sha256": "f061d39e6c5113d51331020598efe237c89c896074a91a5d5bc826d15cf90342"
+  },
+  {
+    "file": "assets/maps/originals/夜游潇湘.png",
+    "bytes": 392536,
+    "sha256": "c75726a24ea04b3e413435966e01df876aee74c5f4815abef80e3df9520afc98"
+  },
+  {
+    "file": "assets/maps/originals/天宫寻梦.png",
+    "bytes": 1338952,
+    "sha256": "54c22195328c28d082e77ad7de97857c53b2daea4234186a34c364d31be4db0d"
+  },
+  {
+    "file": "assets/maps/originals/山海画境.jpg",
+    "bytes": 88065,
+    "sha256": "88761a773905be2153861924e7a5e19dddc1bc4ca8c6f70a48f03f49276c268d"
+  },
+  {
+    "file": "assets/maps/originals/心渊.jpg",
+    "bytes": 79872,
+    "sha256": "b0ba5761286edf4253505a958b229cdbb9e2201ae8dc9ee0d4c732d797d0b287"
+  },
+  {
+    "file": "assets/maps/originals/泰坦之巅.png",
+    "bytes": 457822,
+    "sha256": "3a66a8eba9c8a0dafcb14b4bb7c6d906e60cb9172f551adea6213ccef84d749b"
+  },
+  {
+    "file": "assets/maps/originals/流觞曲水.jpg",
+    "bytes": 62940,
+    "sha256": "584d86adcf93570e2153e1a304f6d4312eb9d05d3374d53fd195332a25de8947"
+  },
+  {
+    "file": "assets/maps/originals/特洛伊环城.png",
+    "bytes": 437161,
+    "sha256": "16348e341864616dc38cad179c7aab9b394de93ea9f4c538cc5d7deaf517eb28"
+  },
+  {
+    "file": "assets/maps/originals/疾风机场.jpg",
+    "bytes": 250832,
+    "sha256": "e6fe9067db8555d48a0f8c6de228370099a26f359c5436a5c9ea4e8fd24595e2"
+  },
+  {
+    "file": "assets/maps/originals/秋名山.jpg",
+    "bytes": 367416,
+    "sha256": "63b388d4f2f480bfceb1b15ad92ddd23afe800beaecba841829da44537afb068"
+  },
+  {
+    "file": "assets/maps/originals/端午竞渡.png",
+    "bytes": 442738,
+    "sha256": "a6e5368994e80e782aa637346cfe8ca66b7b0a388278a7d90db0cb6e9ef73fb8"
+  },
+  {
+    "file": "assets/maps/originals/老街工地.png",
+    "bytes": 478800,
+    "sha256": "cddedbbf4910de96dca3d71ab3482cd3ce14c806ae243b713df4321102527049"
+  },
+  {
+    "file": "assets/maps/originals/苏格兰场.png",
+    "bytes": 427975,
+    "sha256": "135c7ae2695ec8a8b312e69294634bb3f2ada66f3c10cefcf2d51951b66c013b"
+  },
+  {
+    "file": "assets/maps/originals/踏雪寻春.jpg",
+    "bytes": 87683,
+    "sha256": "16994d084f1167ee0e8b7c46ad7e8a058ca08b64ef4aea9b0354471ce2620c6d"
+  },
+  {
+    "file": "assets/maps/originals/阿尔法总部.jpg",
+    "bytes": 36089,
+    "sha256": "a8a477c51033ed80bd090318961f873db9ba06fa6ee1f93217519a4e87d34ba4"
+  },
+  {
+    "file": "assets/maps/originals/雾山五行.png",
+    "bytes": 450814,
+    "sha256": "85b72ed79dccc6b4c932dd02bb614b02aa5a905d158c0df5c38d58187ee81d7c"
+  },
+  {
+    "file": "assets/maps/云涌天门.jpg",
+    "bytes": 73876,
+    "sha256": "c53d5502c1bda7417846a3d14a55e28271813f20e1b6e57c1a2331bcf03de404"
+  },
+  {
+    "file": "assets/maps/亚特兰蒂斯.jpg",
+    "bytes": 85324,
+    "sha256": "f35e5c5930c6bef34f3043fb42dd157fe247d5fe33af68d9855253bbbe65c243"
+  },
+  {
+    "file": "assets/maps/伊甸掠影.jpg",
+    "bytes": 80018,
+    "sha256": "49bddab708fe535c1c1e3eadf9beff8359309276ec9e2fa26ba268de67690176"
+  },
+  {
+    "file": "assets/maps/兰舟听雪.jpg",
+    "bytes": 107994,
+    "sha256": "6c92de46bf13c5b9bac9a730124cab8797eab8633121c7b84f5a196ab67fb519"
+  },
+  {
+    "file": "assets/maps/决战！雪山之巅.jpg",
+    "bytes": 106898,
+    "sha256": "0a9d1eb59e77afddb675985b9c24965aa881a4c2ffae30f7ee4946dd0c9e7c9a"
+  },
+  {
+    "file": "assets/maps/千户苗寨.jpg",
+    "bytes": 123607,
+    "sha256": "65d65b47f0db1cdd6c45c4cdd1559190c8bf5895f1c1f476ac6e755390b78b74"
+  },
+  {
+    "file": "assets/maps/夜游潇湘.jpg",
+    "bytes": 79784,
+    "sha256": "e7c3d0114949aea054c77307b777724d5a6fa02dc64c3d1c8771c7a5494e590e"
+  },
+  {
+    "file": "assets/maps/天宫寻梦.jpg",
+    "bytes": 71502,
+    "sha256": "bc4e80394d5137e7a6800e9d387b984398147db6e48d6564ff26c775c773ef29"
+  },
+  {
+    "file": "assets/maps/山海画境.jpg",
+    "bytes": 70729,
+    "sha256": "df72570dc8c8de332719ef3666ed739d53b7fd647b041ce6456ceffcf6c5969d"
+  },
+  {
+    "file": "assets/maps/心渊.jpg",
+    "bytes": 87957,
+    "sha256": "4c7b4c37d1f961421160acd650d954b7ed2c40f94e97dfa9231f55e7ff45b850"
+  },
+  {
+    "file": "assets/maps/泰坦之巅.jpg",
+    "bytes": 112794,
+    "sha256": "1dec6f977d77da93af64010734376e5183b3e5c837ee400dcb93553cf6f612a5"
+  },
+  {
+    "file": "assets/maps/流觞曲水.jpg",
+    "bytes": 64455,
+    "sha256": "fc99e7e0b2660e30f90c1b048171c0c346a8b37b2390010eb33498b6c24edc73"
+  },
+  {
+    "file": "assets/maps/特洛伊环城.jpg",
+    "bytes": 93157,
+    "sha256": "879e2037a2a17ef3f8843244feff68473c763cd58a550b7ce71a212350c4d02f"
+  },
+  {
+    "file": "assets/maps/疾风机场.jpg",
+    "bytes": 115747,
+    "sha256": "8b451c956510e768bc04908dbefc90dd09bab0c131d6ef35bd3d5880fa3e72b4"
+  },
+  {
+    "file": "assets/maps/秋名山.jpg",
+    "bytes": 103286,
+    "sha256": "ce1d22853aab6b2dd62a9f9a2621b85e4c403e75fd81ab138fb58e36e846a303"
+  },
+  {
+    "file": "assets/maps/端午竞渡.jpg",
+    "bytes": 114385,
+    "sha256": "9dc2a6b6cbc5640b4f1da72a6aa8eca3c231527d7f9e08847fff1badf0d2b0bb"
+  },
+  {
+    "file": "assets/maps/老街工地.jpg",
+    "bytes": 151818,
+    "sha256": "d155b1a5cde875e5298e535cd9cc7b47fee95e2a83ad495b782df63e6ea3e689"
+  },
+  {
+    "file": "assets/maps/苏格兰场.jpg",
+    "bytes": 114054,
+    "sha256": "1f87f639eefc55311be08ee1bc9ac6997f3bfa55ba976d9e228a3e2fa5019883"
+  },
+  {
+    "file": "assets/maps/踏雪寻春.jpg",
+    "bytes": 92969,
+    "sha256": "ba2e1ff6e2760b47c83470388c9996191d1c67e1779904a2ccc60bb8752719d1"
+  },
+  {
+    "file": "assets/maps/阿尔法总部.jpg",
+    "bytes": 80202,
+    "sha256": "59a96da84235b4da86da03ed6061c2ab5b26f0ef26230b9168c52e68e43b13ed"
+  },
+  {
+    "file": "assets/maps/雾山五行.jpg",
+    "bytes": 117454,
+    "sha256": "7f7534431845cb901a132c0206376a6504b02815a822eb1163dbb85d632b4bee"
+  },
+  {
+    "file": "docs/images/ranking.jpg",
+    "bytes": 987378,
+    "sha256": "88839bb77c1f415c1fa27655d00d0527b58dd42cd3c03d4984075428bbc5519f"
+  },
+  {
+    "file": "docs/images/ranking.png",
+    "bytes": 3453904,
+    "sha256": "b53e94a5cef2fb707b37794b9c025ebbea5fea10aa6b37f337d9ea361b26a949"
+  },
+  {
+    "file": "docs/images/report-01.jpg",
+    "bytes": 1289581,
+    "sha256": "8ad6ba996984084cd693e50510f2d94346bb8dfd612702253da618b6a80dc8c5"
+  },
+  {
+    "file": "docs/images/report-01.png",
+    "bytes": 5226388,
+    "sha256": "4c673073442a8c6d4d0db9b23cd26c1140fef2a3e82c7b3a70a37b3df87dcd6c"
+  },
+  {
+    "file": "docs/images/report-02.jpg",
+    "bytes": 1271379,
+    "sha256": "4dbe34bf9fc107acb31cde011992aa9d4e662bffe33ee007852e9371bc121d2a"
+  },
+  {
+    "file": "docs/images/report-02.png",
+    "bytes": 5509875,
+    "sha256": "5e6666400596fb2f5e137f55d1139f3bfe28244f55b078385854e91148dcb9c8"
+  },
+  {
+    "file": "docs/images/report-03.jpg",
+    "bytes": 1314597,
+    "sha256": "f2661d7243bdfc9abb5108f28180c32e535d96ee9b3957b93e6ecf8a8dd85b0c"
+  },
+  {
+    "file": "docs/images/report-03.png",
+    "bytes": 5803521,
+    "sha256": "8dbe8435e9071f989cbc33c012c9b5c67af43baf386bfb1e07bf2ab71839bcae"
+  },
+  {
+    "file": "docs/images/report-04.jpg",
+    "bytes": 1208662,
+    "sha256": "642014a05bcb23bd02a87aaf572c047f52e5855db8132e13c278c1f7d3bf974b"
+  },
+  {
+    "file": "docs/images/report-04.png",
+    "bytes": 5367150,
+    "sha256": "b79fdcc2cec0c6df3f39f9b93e07488961cadaa5cd405b823cdcada1bb902a7f"
+  },
+  {
+    "file": "docs/images/report-05.jpg",
+    "bytes": 1266637,
+    "sha256": "a48b527edb392bed0ce325d07061a1542ac16f290705f8f0a1337afc21764012"
+  },
+  {
+    "file": "docs/images/report-05.png",
+    "bytes": 5266192,
+    "sha256": "992312423fbf2ccaa65093f2aa951281d78e86115b83a86968c088a8814c552e"
+  },
+  {
+    "file": "docs/images/report-06.jpg",
+    "bytes": 1269958,
+    "sha256": "3184dc622aae5a45e534130591266c6ffa9f48630ee067052a6620d9a9c8aea3"
+  },
+  {
+    "file": "docs/images/report-06.png",
+    "bytes": 5684079,
+    "sha256": "60c26c9d8bc2dd67da449eae0cbb775a5dd77416fd6b0f425249e64273da8233"
+  }
+]

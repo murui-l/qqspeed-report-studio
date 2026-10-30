@@ -1,0 +1,443 @@
+[
+  {
+    "file": "assets/maps/originals/夜游潇湘.png",
+    "name": "夜游潇湘",
+    "source_page": "https://news.17173.com/content/09152025/170622165.shtml",
+    "source_image": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/PdyvWlbtfgkaefw.png!a-3-854x.png",
+    "source_type": "official_announcement_republished",
+    "sha256": "c75726a24ea04b3e413435966e01df876aee74c5f4815abef80e3df9520afc98",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/苏格兰场.png",
+    "name": "苏格兰场",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%9C%BA",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/e/e5/bw4v5tztz5clqiwuagwwsqsthh0wvwk.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "135c7ae2695ec8a8b312e69294634bb3f2ada66f3c10cefcf2d51951b66c013b",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/流觞曲水.jpg",
+    "name": "流觞曲水",
+    "source_page": "https://www.taptap.cn/moment/485586502978374892?group_id=41517",
+    "source_image": "https://img2-tc.tapimg.com/moment/etag/9bcb3bd4acb7a2928f5f7a999aca9778.png/_tap_ugc.jpg",
+    "source_type": "official_announcement_republished",
+    "sha256": "584d86adcf93570e2153e1a304f6d4312eb9d05d3374d53fd195332a25de8947",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/千户苗寨.png",
+    "name": "千户苗寨",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/1/13/7gbf56oaqo027ajldsuf6qsmtitjpwh.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "f061d39e6c5113d51331020598efe237c89c896074a91a5d5bc826d15cf90342",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/兰舟听雪.jpg",
+    "name": "兰舟听雪",
+    "source_page": "https://news.17173.com/content/02102026/112043353.shtml",
+    "source_image": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/PBHoscbtrczbqkc.jpg",
+    "source_type": "official_announcement_republished",
+    "sha256": "470be77dc6a37a22b620bb3fb3e5c7dbe683ac4fdc913af1abb1fe18483be593",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/疾风机场.jpg",
+    "name": "疾风机场",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%96%BE%E9%A3%8E%E6%9C%BA%E5%9C%BA",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/b/bb/pvtoioq6q3y1cn0ttizghgga36dl635.jpg",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "e6fe9067db8555d48a0f8c6de228370099a26f359c5436a5c9ea4e8fd24595e2",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/老街工地.png",
+    "name": "老街工地",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E8%80%81%E8%A1%97%E5%B7%A5%E5%9C%B0",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/b/b9/5abd0w63h2l67dmaiycamjp7pgskinu.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "cddedbbf4910de96dca3d71ab3482cd3ce14c806ae243b713df4321102527049",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/踏雪寻春.jpg",
+    "name": "踏雪寻春",
+    "source_page": "https://news.17173.com/content/02102026/112043353.shtml",
+    "source_image": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/BYlDUubtrczbqjb.jpg",
+    "source_type": "official_announcement_republished",
+    "sha256": "16994d084f1167ee0e8b7c46ad7e8a058ca08b64ef4aea9b0354471ce2620c6d",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/端午竞渡.png",
+    "name": "端午竞渡",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%AB%AF%E5%8D%88%E7%AB%9E%E6%B8%A1",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/a/a1/h3nnxslixwq7jg7ixcfbek3j21gz3fl.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "a6e5368994e80e782aa637346cfe8ca66b7b0a388278a7d90db0cb6e9ef73fb8",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/亚特兰蒂斯.jpg",
+    "name": "亚特兰蒂斯",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/8/82/cank912oot4ysrjk0g10kmstld9v49m.jpg",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "c65e02e9c80a152af4ee2660749618134e7475f84ceb648249a8a66c6ec6b962",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/山海画境.jpg",
+    "name": "山海画境",
+    "source_page": "https://weibo.com/ttarticle/p/show?id=2309405123198470717780",
+    "source_image": "https://wx2.sinaimg.cn/large/007283maly4hxlrx4yhrej30u00e10uu.jpg",
+    "source_type": "official_announcement_republished",
+    "sha256": "88761a773905be2153861924e7a5e19dddc1bc4ca8c6f70a48f03f49276c268d",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/特洛伊环城.png",
+    "name": "特洛伊环城",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%89%B9%E6%B4%9B%E4%BC%8A%E7%8E%AF%E5%9F%8E",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/0/09/onsa7160xzs5yz23glx4iopzh30ze01.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "16348e341864616dc38cad179c7aab9b394de93ea9f4c538cc5d7deaf517eb28",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/11城.png",
+    "name": "11城",
+    "source_page": "https://wiki.biligame.com/qqspeed/11%E5%9F%8E",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/7/7c/ckg9pms874so9tlaz329yhosxt4i5kz.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "4c37cf6f0dbef9521e2081a14e6e08be4147dd409e98fd46f1de743c09dcc842",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/雾山五行.png",
+    "name": "雾山五行",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/6/6e/4f61d428wuxeqbekfvuy95z4jzbnt7v.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "85b72ed79dccc6b4c932dd02bb614b02aa5a905d158c0df5c38d58187ee81d7c",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/伊甸掠影.png",
+    "name": "伊甸掠影",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E4%BC%8A%E7%94%B8%E6%8E%A0%E5%BD%B1",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/d/d5/n7hvsb3o4wtlfdngbtio1eevjszr1vj.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "7f2420737a2374e510cb2cfcb9496e74ae280bb59c27ff6df9a1c3023ff125ca",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/阿尔法总部.jpg",
+    "name": "阿尔法总部",
+    "source_page": "https://news.17173.com/z/qqfcsy/content/01112021/183411662.shtml",
+    "source_image": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/rPPjEOboBvturhw.jpg!a-3-854x.jpg",
+    "source_type": "official_announcement_republished",
+    "sha256": "a8a477c51033ed80bd090318961f873db9ba06fa6ee1f93217519a4e87d34ba4",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/天宫寻梦.png",
+    "name": "天宫寻梦",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E5%A4%A9%E5%AE%AB%E5%AF%BB%E6%A2%A6",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/3/37/6h08rorw4tdedfpml5g4grat47fgo7n.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "54c22195328c28d082e77ad7de97857c53b2daea4234186a34c364d31be4db0d",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/泰坦之巅.png",
+    "name": "泰坦之巅",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E6%B3%B0%E5%9D%A6%E4%B9%8B%E5%B7%85",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/7/7f/dy045xoet048xj0rzolgws5puq9o3ui.png",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "3a66a8eba9c8a0dafcb14b4bb7c6d906e60cb9172f551adea6213ccef84d749b",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/决战！雪山之巅.jpg",
+    "name": "决战！雪山之巅",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E5%86%B3%E6%88%98%EF%BC%81%E9%9B%AA%E5%B1%B1%E4%B9%8B%E5%B7%85",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/3/38/bd1no3je1eo0hm794in23v2rlveu4by.jpg",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "7cf8b64b6f4e1e21f1e3b767aecdfeb4d1ddb944907bc7b68ddb67810075f375",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/秋名山.jpg",
+    "name": "秋名山",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%A7%8B%E5%90%8D%E5%B1%B1",
+    "source_image": "https://patchwiki.biligame.com/images/qqspeed/1/13/psvn47v7tp9b5wpihmpgscl62yyh3f4.jpg",
+    "source_type": "game_art_republished_on_community_wiki",
+    "sha256": "63b388d4f2f480bfceb1b15ad92ddd23afe800beaecba841829da44537afb068",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/云涌天门.png",
+    "name": "云涌天门",
+    "source_page": "https://news.17173.com/content/09152025/170622165.shtml",
+    "source_image": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/nvzspLbtfgkaepf.png!a-3-854x.png",
+    "source_type": "official_announcement_republished",
+    "sha256": "f14a74af50d682b640c76b662b3bceb0bd7695201e7b495b1b138477842c3895",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/maps/originals/心渊.jpg",
+    "name": "心渊",
+    "source_page": "https://news.17173.com/content/11202025/164453142.shtml",
+    "source_image": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/AUMktbbtkqhacCu.jpg",
+    "source_type": "official_announcement_republished",
+    "sha256": "b0ba5761286edf4253505a958b229cdbb9e2201ae8dc9ee0d4c732d797d0b287",
+    "license": "Third-party game artwork; excluded from code MIT license."
+  },
+  {
+    "file": "assets/logos/aikang-tv-logo.png",
+    "source": "Image generation or edit from team-name and character references in the Yangpang Cup project.",
+    "sha256": "eeeb4547766056cd4b5803edafea0e087fdd5c13bbed232e328c658bff902e7b",
+    "license": "Illustrated team asset; reference character rights remain with their owners."
+  },
+  {
+    "file": "assets/logos/bomiao-logo.png",
+    "source": "Image generation or edit from team-name and character references in the Yangpang Cup project.",
+    "sha256": "a7ae235b66873c959a48996d839dc0649809a2d9c7b27c507e6df7cde1ea13e4",
+    "license": "Illustrated team asset; reference character rights remain with their owners."
+  },
+  {
+    "file": "assets/logos/buzhidou-logo.png",
+    "source": "Image generation or edit from team-name and character references in the Yangpang Cup project.",
+    "sha256": "01bc02bc4479697040597431b4a01bc9ca0dbee60935f95ed9059b0529cf0945",
+    "license": "Illustrated team asset; reference character rights remain with their owners."
+  },
+  {
+    "file": "assets/logos/handao-logo.png",
+    "source": "Image generation or edit from team-name and character references in the Yangpang Cup project.",
+    "sha256": "fc170973065aedbeb09bb67484be47f544ed1557bbb4179301269b4c6566274f",
+    "license": "Illustrated team asset; reference character rights remain with their owners."
+  },
+  {
+    "file": "assets/logos/xiatou-luzhang-logo.png",
+    "source": "Image generation or edit from team-name and character references in the Yangpang Cup project.",
+    "sha256": "bde99521667b47ba9e8246db68b43dc03cdc8b4f5829a3d1283fcb845a12737d",
+    "license": "Illustrated team asset; reference character rights remain with their owners."
+  },
+  {
+    "file": "assets/logos/yuzhou-panghou-logo.png",
+    "source": "Image generation or edit from team-name and character references in the Yangpang Cup project.",
+    "sha256": "a8d647d2624a0c612de494c134f18635862f19a3b591610a1cfdc6e5adb4743c",
+    "license": "Illustrated team asset; reference character rights remain with their owners."
+  },
+  {
+    "file": "assets/backgrounds/ranking.png",
+    "source": "Generated and edited from a purple-and-gold racing tournament poster reference. Text-free decoration for deterministic typesetting.",
+    "license": "Visual reference asset; excluded from the code MIT license."
+  },
+  {
+    "file": "assets/maps/夜游潇湘.jpg",
+    "derived_from": "assets/maps/originals/夜游潇湘.png",
+    "source_page": "https://news.17173.com/content/09152025/170622165.shtml",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/苏格兰场.jpg",
+    "derived_from": "assets/maps/originals/苏格兰场.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%9C%BA",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/流觞曲水.jpg",
+    "derived_from": "assets/maps/originals/流觞曲水.jpg",
+    "source_page": "https://www.taptap.cn/moment/485586502978374892?group_id=41517",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/千户苗寨.jpg",
+    "derived_from": "assets/maps/originals/千户苗寨.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E5%8D%83%E6%88%B7%E8%8B%97%E5%AF%A8",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/兰舟听雪.jpg",
+    "derived_from": "assets/maps/originals/兰舟听雪.jpg",
+    "source_page": "https://news.17173.com/content/02102026/112043353.shtml",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/疾风机场.jpg",
+    "derived_from": "assets/maps/originals/疾风机场.jpg",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%96%BE%E9%A3%8E%E6%9C%BA%E5%9C%BA",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/老街工地.jpg",
+    "derived_from": "assets/maps/originals/老街工地.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E8%80%81%E8%A1%97%E5%B7%A5%E5%9C%B0",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/踏雪寻春.jpg",
+    "derived_from": "assets/maps/originals/踏雪寻春.jpg",
+    "source_page": "https://news.17173.com/content/02102026/112043353.shtml",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/端午竞渡.jpg",
+    "derived_from": "assets/maps/originals/端午竞渡.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%AB%AF%E5%8D%88%E7%AB%9E%E6%B8%A1",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/亚特兰蒂斯.jpg",
+    "derived_from": "assets/maps/originals/亚特兰蒂斯.jpg",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/山海画境.jpg",
+    "derived_from": "assets/maps/originals/山海画境.jpg",
+    "source_page": "https://weibo.com/ttarticle/p/show?id=2309405123198470717780",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/特洛伊环城.jpg",
+    "derived_from": "assets/maps/originals/特洛伊环城.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%89%B9%E6%B4%9B%E4%BC%8A%E7%8E%AF%E5%9F%8E",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/11城.jpg",
+    "derived_from": "assets/maps/originals/11城.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/11%E5%9F%8E",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/雾山五行.jpg",
+    "derived_from": "assets/maps/originals/雾山五行.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/伊甸掠影.jpg",
+    "derived_from": "assets/maps/originals/伊甸掠影.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E4%BC%8A%E7%94%B8%E6%8E%A0%E5%BD%B1",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/阿尔法总部.jpg",
+    "derived_from": "assets/maps/originals/阿尔法总部.jpg",
+    "source_page": "https://news.17173.com/z/qqfcsy/content/01112021/183411662.shtml",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/天宫寻梦.jpg",
+    "derived_from": "assets/maps/originals/天宫寻梦.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E5%A4%A9%E5%AE%AB%E5%AF%BB%E6%A2%A6",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/泰坦之巅.jpg",
+    "derived_from": "assets/maps/originals/泰坦之巅.png",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E6%B3%B0%E5%9D%A6%E4%B9%8B%E5%B7%85",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/决战！雪山之巅.jpg",
+    "derived_from": "assets/maps/originals/决战！雪山之巅.jpg",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E5%86%B3%E6%88%98%EF%BC%81%E9%9B%AA%E5%B1%B1%E4%B9%8B%E5%B7%85",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/秋名山.jpg",
+    "derived_from": "assets/maps/originals/秋名山.jpg",
+    "source_page": "https://wiki.biligame.com/qqspeed/%E7%A7%8B%E5%90%8D%E5%B1%B1",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/云涌天门.jpg",
+    "derived_from": "assets/maps/originals/云涌天门.png",
+    "source_page": "https://news.17173.com/content/09152025/170622165.shtml",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "assets/maps/心渊.jpg",
+    "derived_from": "assets/maps/originals/心渊.jpg",
+    "source_page": "https://news.17173.com/content/11202025/164453142.shtml",
+    "license": "Third-party game artwork thumbnail; same underlying rights as source."
+  },
+  {
+    "file": "docs/images/ranking.jpg",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/ranking.png",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-01.jpg",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-01.png",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-02.jpg",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-02.png",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-03.jpg",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-03.png",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-04.jpg",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-04.png",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-05.jpg",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-05.png",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-06.jpg",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  },
+  {
+    "file": "docs/images/report-06.png",
+    "source": "Rendered by the Yangpang Cup project using the archived match data, team logos and game artwork.",
+    "license": "Composite demonstration; source component rights and font terms remain applicable."
+  }
+]

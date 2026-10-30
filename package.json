@@ -1,0 +1,18 @@
+{
+  "name": "qqspeed-report-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QQ飞车手游2v2战报与累计均分榜生成器，含完整图片素材和示例",
+  "license": "MIT",
+  "repository": {"type": "git", "url": "https://github.com/murui-l/qqspeed-report-studio.git"},
+  "engines": {"node": ">=22"},
+  "scripts": {
+    "report": "node src/render-report.cjs",
+    "ranking": "node src/render-ranking.cjs",
+    "standings": "node src/standings.cjs",
+    "demo": "node src/render-report.cjs --config examples/matches/2026-10-29_爱康tvVS虾头路障.json --out-dir outputs --work-dir work/demo",
+    "maps:audit": "node src/library.cjs audit",
+    "test": "node --test test/*.test.cjs"
+  },
+  "dependencies": {"playwright": "1.62.1", "sharp": "0.35.5"}
+}
